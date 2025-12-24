@@ -141,3 +141,90 @@ OUTPUT:
 RESULT:
 Thus the program to find principle amount based on simple interest, time & rate of interest has been executed successfully 
 
+
+ 
+Program-1-d
+C-Module 1
+EX_NO-01)d)-Conditional Statements
+Date: 24-12-2025
+Name: Dharshini T
+Register Number:25018056
+AIM:
+Write a C program to read a, b values and check whether a equal to b.
+
+ALGORITHM:
+
+Start the program.
+
+Declare two integer variables to store the input values.
+
+Read the two integer values from the user using the scanf function.
+
+Check if the first value is equal to the second value.
+
+a. If true, print "a is equal to b".
+
+b. If false, do nothing (or skip printing).
+
+End the program.
+
+PROGRAM:
+```
+#include <stdio.h>
+int main()
+{
+int a,b;
+scanf("%d %d",&a,&b);
+if(a==b)
+printf("a is equal to b");
+ return 0;   
+}
+```
+OUTPUT:
+
+
+![WhatsApp Image 2025-12-24 at 10 30 36 PM](https://github.com/user-attachments/assets/2ef6dc49-c76e-4c9f-a0e1-01fde9342ca5)
+
+RESULT:
+Thus the program to read a, b values and check whether a equal to b has been executed successfully
+
+Program-1-e
+C-Module 1
+EX_NO-01)e)-Datatypes & Operators
+Date: 24-12-2025
+Name: Dharshini T
+Register Number:25018056
+AIM:
+Write a C program to find the ASCII value of a given character.
+
+ALGORITHM:
+
+Start the program.
+Declare a character variable to store the input character.
+Read the character from the user using the scanf function.
+Print the ASCII value of the character using the printf function.
+End the program.
+PROGRAM:
+```
+#include <stdio.h>
+int main()
+{
+    char ch;
+    scanf("%c",&ch);
+    printf("ASCII value of %c is %d",ch,ch);
+    return 0;
+}
+```
+OUTPUT:
+
+
+![WhatsApp Image 2025-12-24 at 10 32 07 PM](https://github.com/user-attachments/assets/35834cd2-4e06-46f1-b0f5-4ccb3e08f830)
+
+
+RESULT:
+Thus the program to find the ASCII value of a given character has been executed successfully
+
+
+
+ 
+
