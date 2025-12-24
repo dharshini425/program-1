@@ -2,9 +2,7 @@
 C-Module 1
 
 EX_NO-01)a)-Datatypes-Operators
-Date: 24-12-2025
-Name: Dharshini T
-Register number:25018056
+
 
 AIM:
 Write a C program to read a float value from the user and to display the same value.
@@ -43,10 +41,8 @@ thus the program to find the float value from the useer and  to display same val
 
 Program-1-b
 C-Module 1
-EX_NO-01)b)-Conditional Statements
-Date: 24-12-2025
-Name: Dharshini T
-Register Number:25018056
+
+
 AIM:
 Write a C program to read A values and check whether the value is greater than and equal to 100.
 
@@ -93,9 +89,7 @@ Thus the program to read A values and check whether the value is greater than an
 Program-1-c
 C-Module 1
 EX_NO-01)c)-Operators & Expressions
-Date: 19-10-2025
-Name: Dharshuni T
-Register Number:25018056
+
 AIM:
 
 Write a program to find principle amount based on simple interest, time & rate of interest.
@@ -142,13 +136,13 @@ RESULT:
 Thus the program to find principle amount based on simple interest, time & rate of interest has been executed successfully 
 
 
+
+
  
 Program-1-d
 C-Module 1
 EX_NO-01)d)-Conditional Statements
-Date: 24-12-2025
-Name: Dharshini T
-Register Number:25018056
+
 AIM:
 Write a C program to read a, b values and check whether a equal to b.
 
@@ -188,12 +182,14 @@ OUTPUT:
 RESULT:
 Thus the program to read a, b values and check whether a equal to b has been executed successfully
 
+
+
+
+
 Program-1-e
 C-Module 1
 EX_NO-01)e)-Datatypes & Operators
-Date: 24-12-2025
-Name: Dharshini T
-Register Number:25018056
+
 AIM:
 Write a C program to find the ASCII value of a given character.
 
